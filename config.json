@@ -1,0 +1,6 @@
+{
+	"baseUrl": "https://192.168.100.198/",
+	"urls": {
+		"getDevices": "clip/v2/resource/device"
+	}
+}
